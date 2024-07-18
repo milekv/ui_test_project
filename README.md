@@ -10,7 +10,6 @@ The project contains the following elements:
 
 - **tests/**: Folder containing test scripts.
   - `test_example.py`: A test that checks if the page `example.com` opens correctly and verifies that its title matches expectations.
-  - `test_youtube_open.py`: A test that checks opening YouTube and searching for videos.
 
 - **drivers/**: Folder where you can place the appropriate browser drivers (e.g., `chromedriver.exe`).
 
