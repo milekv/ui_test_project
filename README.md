@@ -1,31 +1,31 @@
-# UI Test Project
+# Projekt Testów UI  
 
-## Description
+## 🖥 Opis  
 
-This is a UI automation testing project built using Selenium in Python. The project aims to demonstrate how to automate UI tests for web applications.
+Ten projekt prezentuje automatyczne testy UI stworzone z użyciem **Selenium** oraz **Pythona**. Celem jest pokazanie procesu automatyzacji testów dla aplikacji webowych.  
 
-## Contents
+## 📂 Zawartość  
 
-The project contains the following elements:
+Projekt zawiera następujące elementy:  
 
-- **tests/**: Folder containing test scripts.
-  - `test_example.py`: A test that checks if the page `example.com` opens correctly and verifies that its title matches expectations.
+- **tests/**: Folder z przykładowymi skryptami testowymi.  
+  - `test_example.py`: Test sprawdzający, czy strona `example.com` otwiera się poprawnie i jej tytuł jest zgodny z oczekiwaniami.  
 
-- **drivers/**: Folder where you can place the appropriate browser drivers (e.g., `chromedriver.exe`).
+- **drivers/**: Folder, do którego możesz dodać odpowiednie sterowniki przeglądarki (np. `chromedriver.exe`).  
 
-- **requirements.txt**: A file containing the necessary Python libraries to run the tests.
+- **requirements.txt**: Plik z wymaganymi bibliotekami Python do uruchomienia testów.  
 
-## Requirements
+## 📋 Wymagania  
 
-To run the project, make sure you have installed:
+Aby uruchomić projekt, musisz zainstalować następujące składniki:  
 
-- [Python 3.x](https://www.python.org/downloads/)
-- [Selenium](https://www.selenium.dev/documentation/en/)
-- [ChromeDriver](https://chromedriver.chromium.org/downloads) or another WebDriver that corresponds to your browser.
+- [Python 3.x](https://www.python.org/downloads/)  
+- [Selenium](https://www.selenium.dev/documentation/en/)  
+- [ChromeDriver](https://chromedriver.chromium.org/downloads) lub inne WebDriver'y zgodne z używaną przeglądarką.  
 
-## Installation
+## 🛠 Instalacja  
 
-1. **Clone the repository**:
+1. **Sklonuj repozytorium**:  
 
-   ```bash
-   git clone https://github.com/milekv/ui_test_project.git
+```bash
+git clone https://github.com/milekv/ui_test_project.git
